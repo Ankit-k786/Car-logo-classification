@@ -1,27 +1,29 @@
-=======================================================================================================================
+==================================================<br />
 [Install Dependencies]:
 
 	1. Install python>=3.8 if not already install.
 	2. Install other dependency usin "pip install -r requirements.txt"
-=========================================================================================================================
+=================================================<br />
 [Run Inference on single image]:
 
 	1. Set the path of the logo Image and pretrained model in inference.py file.
 	2. Run the python inference.py file.
 	3. It will predict the class of image logo.
-=========================================================================================================================
+=================================================<br />
 [Run Test.py for genrate Confusion matrix and accuracy]:
 	
 	1. Set the path of the val folder and pretrained model in test.py file.
 	2. Run the python test.py file.
 	3. It will genrate the confusion matrix and save as confusion matrix.png, It will also calculate the accuracy 
 	   and precision,recall,fscore for each indivisual class.
-=========================================================================================================================
+
+==================================================<br />
 [Run Train.py for traing]:
 	1. Set the path of the train folder in train.py file.
 	2. Run the python train.py file.
 	3. It will save the trained weight in ./Car_logo_classification/model/ name as "logo_classify_weight.h5"
-=========================================================================================================================
+===============================================<br />
+Note:Unzip the data.zip . Training and test data is in data folder
 
 [Check and regenrate the results]:
 
@@ -35,7 +37,12 @@
          'Nissan.common', 'Jeep.common', 'Mercedes-Benz.common', 'Hyundai.common', 'Toyota.common','Jaguar.frontal',
          'Honda.common', 'Kia.common', 'MG-Motor.common', 'ISUZU.common', 'Volvo.frontal', 'Datsun.common', 
          'Mahindra.common', 'Ford.common', 'Jaguar.rear', 'Maruti-Suzuki.common', 'BMW.common', 'Chevrolet.common',
-         'Mitsubishi.common', 'Tata.common', 'Audi.common'] 
+         'Mitsubishi.common', 'Tata.common', 'Audi.common']
+	 
+Confusion Matrix: 
+<img src="https://github.com/Ankit-k786/Car-logo-classification/blob/main/confusion_matrix.png" width="512"/
+
+**Note: Download Pretrained weight from this drive link:**
 
                        
                      
