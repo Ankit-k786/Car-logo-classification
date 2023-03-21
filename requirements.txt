@@ -1,0 +1,11 @@
+tensorflow
+Keras
+numpy==1.23.4
+matplot
+scikit-learn==1.0.2.
+pillow
+
+
+
+
+
