@@ -18,9 +18,9 @@
 	   and precision,recall,fscore for each indivisual class.
 
 ==================================================<br />
-[Run Train.py for traing]:
-	1. Set the path of the train folder in train.py file.
-	2. Run the python train.py file.
+[Run Train.py for traing]:<br />
+	1. Set the path of the train folder in train.py file.<br />
+	2. Run the python train.py file.<br />
 	3. It will save the trained weight in ./Car_logo_classification/model/ name as "logo_classify_weight.h5"<br />
 ===============================================<br />
 Note:Unzip the data.zip . Training and test data is in data folder<br />
