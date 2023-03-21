@@ -21,9 +21,9 @@
 [Run Train.py for traing]:
 	1. Set the path of the train folder in train.py file.
 	2. Run the python train.py file.
-	3. It will save the trained weight in ./Car_logo_classification/model/ name as "logo_classify_weight.h5"
+	3. It will save the trained weight in ./Car_logo_classification/model/ name as "logo_classify_weight.h5"<br />
 ===============================================<br />
-Note:Unzip the data.zip . Training and test data is in data folder
+Note:Unzip the data.zip . Training and test data is in data folder<br />
 
 [Check and regenrate the results]:
 
@@ -40,9 +40,10 @@ Note:Unzip the data.zip . Training and test data is in data folder
          'Mitsubishi.common', 'Tata.common', 'Audi.common']
 	 
 Confusion Matrix: 
-<img src="https://github.com/Ankit-k786/Car-logo-classification/blob/main/confusion_matrix.png" width="512"/
+<img src="https://github.com/Ankit-k786/Car-logo-classification/blob/main/confusion_matrix.png" width="512"/>
 
 **Note: Download Pretrained weight from this drive link:**
+https://drive.google.com/file/d/1VyILzc1zE4AaOhWdoFoZd2Yu4tvAW6f0/view?usp=share_link
 
                        
                      
