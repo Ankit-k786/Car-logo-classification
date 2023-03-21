@@ -31,11 +31,17 @@
 	4. Regenrate the result just run test.py python file.
 	5. By running the test.py you can check accuracy and (precision,recall,fscore for each logo class).
 	
-	6. logo_classes names=['Fiat.common', 'Kia.new', 'unknown', 'Renault.common', 'Tata.text', 'Volkswagen.common', 'Skoda.common', 
-         'Nissan.common', 'Jeep.common', 'Mercedes-Benz.common', 'Hyundai.common', 'Toyota.common','Jaguar.frontal',
-         'Honda.common', 'Kia.common', 'MG-Motor.common', 'ISUZU.common', 'Volvo.frontal', 'Datsun.common', 
-         'Mahindra.common', 'Ford.common', 'Jaguar.rear', 'Maruti-Suzuki.common', 'BMW.common', 'Chevrolet.common',
-         'Mitsubishi.common', 'Tata.common', 'Audi.common'] 
+	6. logo_classes names=['Fiat.common', 'Kia.new', 'unknown', 'Renault.common', 'Tata.text', 'Volkswagen.common', 'Skoda.common', </br>
+         'Nissan.common', 'Jeep.common', 'Mercedes-Benz.common', 'Hyundai.common', 'Toyota.common','Jaguar.frontal',</br>
+         'Honda.common', 'Kia.common', 'MG-Motor.common', 'ISUZU.common', 'Volvo.frontal', 'Datsun.common', </br>
+         'Mahindra.common', 'Ford.common', 'Jaguar.rear', 'Maruti-Suzuki.common', 'BMW.common', 'Chevrolet.common',</br>
+         'Mitsubishi.common', 'Tata.common', 'Audi.common'] </br>
+**Confusin Matrix**
+	 
+<img src="https://github.com/Ankit-k786/Car-logo-classification/blob/main/confusion_matrix.png" width="512"/>
+
+**NOTE: Download the pretrained weight file from this link**
+
 
                        
                      
